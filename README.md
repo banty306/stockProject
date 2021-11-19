@@ -14,4 +14,4 @@
 - scikit-learn ~= 1.0.1
 
 
-## Click Here to [visit the web app](https://share.streamlit.io/joykishansharma/stock-trend-prediction/app.py)
+## Click Here to [visit the web app](https://share.streamlit.io/banty306/stockproject/main/app.py)
