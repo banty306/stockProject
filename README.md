@@ -1,5 +1,5 @@
 # Stock Trend Prediction
-#### This is a stock trend prediction web app. Stock data is downloaded from yahoo finance, hosted using streamlit share. I personally recommend you to use Pycharm to build your virtual environment. And the program probably cost a little time if you are not using the GPU version Tensorflow.
+#### This project predicts the trend for a given stock . I personally recommend you to use Pycharm to build your virtual environment. And the program probably cost a little time if you are not using the GPU version Tensorflow.
 
 
 ## Requirements
